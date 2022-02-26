@@ -1,0 +1,5 @@
+➜  crawl-go git init
+➜  crawl-go git:(master) ✗ git add .
+➜  crawl-go git:(master) ✗ git commit
+➜  crawl-go git:(master) git remote add origin git@github.com:numgao/crawl-go
+➜  crawl-go git:(master) git push -u origin mastert
